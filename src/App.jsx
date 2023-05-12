@@ -17,7 +17,7 @@ function App() {
         <img src={gru2} alt=""/>
 
         <div className='img-wa'>
-            <a href="https://wa.me/573246803306">
+            <a href="https://wa.me/573173175699">
               <b>Pide aqui!</b>
                 <img src={whatsappLogo} alt="" />
             </a>
