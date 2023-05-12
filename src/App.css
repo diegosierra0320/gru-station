@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  height: 2030px;
+  background-color: #EEEEEE;
+}
+
+.img-menu {
+  position: absolute;
+  top: 0;
+  left: 30%;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.img-menu img {
+  height: 1000px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 4px 4px rgb(82, 80, 80);
+}
+
+.img-wa {
+  position: absolute;
+  top: 15px;
+  left: 420px;
+}
+
+.img-wa img {
+  height: 70px;
+}
+
+.img-wa b {
+  color: white;
+}
