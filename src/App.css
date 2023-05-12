@@ -1,8 +1,7 @@
 body {
   margin: 0;
-  padding: 20px 5px 20px 5px;
+  padding: 10px 5px 10px 5px;
   box-sizing: border-box;
-  height: 2030px;
   background-color: #EEEEEE;
 }
 
@@ -17,7 +16,7 @@ body {
 }
 
 .img-menu img {
-  height: 1000px;
+  height: 580px;
   border-radius: 10px;
   box-shadow: 3px 3px 4px 4px rgb(82, 80, 80);
 }
@@ -29,12 +28,12 @@ body {
 }
 
 .img-wa img {
-  height: 70px;
+  height: 60px;
   box-shadow: none;
 }
 
 .img-wa b {
   color: white;
   margin-right: 10px;
-  font-size: 20px;
+  font-size: 12px;
 }
