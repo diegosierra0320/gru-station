@@ -1,19 +1,18 @@
 body {
   margin: 0;
-  padding: 0;
+  padding: 20px 300px 20px 300px;
   box-sizing: border-box;
-  position: relative;
   height: 2030px;
   background-color: #EEEEEE;
 }
 
 .img-menu {
-  position: absolute;
-  top: 0;
-  left: 30%;
-  bottom: 0;
+  position: relative;
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
   gap: 15px;
 }
 
@@ -25,14 +24,17 @@ body {
 
 .img-wa {
   position: absolute;
-  top: 15px;
-  left: 420px;
+  top: 10px;
+  right: 10px;
 }
 
 .img-wa img {
   height: 70px;
+  box-shadow: none;
 }
 
 .img-wa b {
   color: white;
+  margin-right: 10px;
+  font-size: 20px;
 }
