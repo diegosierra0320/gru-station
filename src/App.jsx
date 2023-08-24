@@ -1,7 +1,7 @@
 import './App.css'
 // import QRCode from 'react-qr-code'
-import gru1 from './utils/img/gru1.jpg'
-import gru2 from './utils/img/gru2.jpg'
+import gru1 from './utils/img/Gru1-24aug.jpeg'
+import gru2 from './utils/img/Gru2-24aug.jpeg'
 import whatsappLogo from './utils/img/Digital_Glyph_Green.png'
 
 function App() {
